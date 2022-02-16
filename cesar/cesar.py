@@ -1,6 +1,5 @@
 from string import ascii_lowercase
 import string
-from tkinter import N
 
 def encripta(string: frase, int: n=13) -> string:
     """encrypt phrase
